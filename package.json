@@ -1,0 +1,29 @@
+{
+  "version": "0.0.0",
+  "name": "cordova-filechooser",
+  "cordova_name": "cordova-filechooser",
+  "description": "cordova-filechooser",
+  "license": "Apache 2.0",
+  "repo": "https://github.com/vietquocnguyen/cordova-filechooser.git",
+  "issue": "https://github.com/vietquocnguyen/cordova-filechooser/issues",
+  "platforms": [
+    "android"
+  ],
+  "engines": [],
+  "englishdoc": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vietquocnguyen/cordova-filechooser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vietquocnguyen/cordova-filechooser/issues"
+  },
+  "homepage": "https://github.com/vietquocnguyen/cordova-filechooser#readme",
+  "cordova": {
+    "id": "cordova-filechooser",
+    "platforms": [
+      "android"
+    ]
+  },
+  "author": "vqndev"
+}
